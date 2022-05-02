@@ -13,3 +13,6 @@ Beside programming:
 
 - I am attracted to vintage stuff.
 - I practice [Kendo](https://www.youtube.com/watch?v=Cb13DKpDd_k).
+
+
+{{< about_game_mode >}}
