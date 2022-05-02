@@ -1,4 +1,4 @@
-baseURL = "https://ktsw.ch"
+baseURL = "https://www.ktsw.ch"
 languageCode = "en-us"
 paginate = 10
 theme = "hello-friend-ng"
