@@ -1,0 +1,67 @@
+# baseURL = "localhost"
+# baseURL = "https://ktsw.ch/"
+baseURL = "https://kutoswiss.github.io"
+languageCode = "en-us"
+paginate = 10
+theme = "hello-friend-ng"
+title = "ktsw"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
+dateformShort = "Jan 2"
+
+homeSubtitle = "Software Engineer // Geneva, Switzerland"
+disableReadOtherPosts = false
+enableSharingButtons = true
+description = "ktsw website"
+images = [""]
+keywords = "homepage, blog, programming, electronics, diy, code, coding"
+
+[taxonomies]
+category = "blog"
+series = "series"
+tag = "tags"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/kutoswiss"
+
+[[params.social]]
+name = "email"
+url = "mailto:contact@ktsw.ch"
+
+[languages]
+[languages.en]
+title = ""
+weight = 1
+keywords = ""
+readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "ktsw"
+
+[languages.ja]
+title = "ktsw"
+weight = 2
+
+[languages.ja.params.logo]
+logoHomeLink = "/"
+logoText = "ktsw"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
+# [[menu.main]]
+# identifier = "posts"
+# name = "Posts"
+# url = "/posts"
+
+# [[menu.main]]
+# identifier = "projects"
+# name       = "Projects"
+# url        = "/projects"
