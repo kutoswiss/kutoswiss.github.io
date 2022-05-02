@@ -1,4 +1,4 @@
-baseURL = "https://kutoswiss.github.io"
+baseURL = "https://ktsw.ch"
 languageCode = "en-us"
 paginate = 10
 theme = "hello-friend-ng"
