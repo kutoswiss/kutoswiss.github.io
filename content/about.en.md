@@ -3,7 +3,7 @@ title: "About"
 layout: single
 ---
 
-I'm a software engineer working in Automated Test Equipment ([ATE](https://en.wikipedia.org/wiki/Automatic_test_equipment)) industry based in Geneva.
+I'm a software engineer working in automated test equipment ([ATE](https://en.wikipedia.org/wiki/Automatic_test_equipment)) industry based in Geneva.
 
 I'm a generalist with experience in embedded software development, computer vision, ROS, mobile applications, APIs, backend services and websites. I also have a background in electronics.
 
